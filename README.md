@@ -9,6 +9,6 @@ A simple and responsive Weather Application built with HTML, CSS, and JavaScript
 * Fully responsive design.
 
 ## Tech Stack
-* HTML5
-* CSS3
+* HTML
+* CSS
 * JavaScript
